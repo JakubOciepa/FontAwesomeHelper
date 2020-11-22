@@ -121,7 +121,42 @@
             public const string Bus = "\uf207";
             public const string BusAlt = "\uf55e";
             public const string BusinessTime = "\uf64a";
-
+            public const string Calculator = "\uf1ec";
+            public const string Calendar = "\uf133";
+            public const string CalendarAlt = "\uf073";
+            public const string CalendarCheck = "\uf274";
+            public const string CalendarDay = "\uf783";
+            public const string CalendarMinus = "\uf272";
+            public const string CalendarPlus = "\uf271";
+            public const string CalendarTimes = "\uf273";
+            public const string CalendarWeek = "\uf784";
+            public const string Camera = "\uf784";
+            public const string CameraRetro = "\uf083";
+            public const string Campground = "\uf6bb";
+            public const string CandyCane = "\uf786";
+            public const string Cannabis = "\uf55f";
+            public const string Capsule = "\uf46b";
+            public const string Car = "\uf1b9";
+            public const string CarAlt = "\uf5de";
+            public const string Caravan = "\uf8ff";
+            public const string CarBattery = "\uf5df";
+            public const string CarCrash = "\uf5e1";
+            public const string CaretDown = "\uf0d7";
+            public const string CaretLeft = "\uf0d9";
+            public const string CaretRight = "\uf0da";
+            public const string CaretSquareDown = "\uf150";
+            public const string CaretSquareLeft = "\uf191";
+            public const string CaretSquareRight = "\uf152";
+            public const string CaretSquareUp = "\uf151";
+            public const string CaretUp = "\uf0d8";
+            public const string Carrot = "\uf787";
+            public const string CarSide = "\uf5e4";
+            public const string CartArrowDown = "\uf218";
+            public const string CartPlus = "\uf217";
+            public const string CashRegister = "\uf788";
+            public const string Cat = "\uf6be";
+            public const string Certificate = "\uf0a3";
+            public const string Chair = "\uf6c0";
         }
     }
 }
