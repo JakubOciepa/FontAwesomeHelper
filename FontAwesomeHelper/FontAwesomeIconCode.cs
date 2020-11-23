@@ -1,4 +1,6 @@
-﻿namespace FontAwesomeHelper
+﻿using System.Runtime.Serialization.Formatters;
+
+namespace FontAwesomeHelper
 {
     public static partial class FontAwesomeIconCode
     {
@@ -157,6 +159,35 @@
             public const string Cat = "\uf6be";
             public const string Certificate = "\uf0a3";
             public const string Chair = "\uf6c0";
+            public const string Chalkboard = "\uf51b";
+            public const string ChalkboardTeacher = "\uf51c";
+            public const string ChargingStation = "\uf5e7";
+            public const string ChartArea = "\uf1fe";
+            public const string ChartBar = "\uf080";
+            public const string ChartLine = "\uf201";
+            public const string ChartPie = "\uf200";
+            public const string Check = "\uf00c";
+            public const string CheckCircle = "\uf058";
+            public const string CheckDouble = "\uf560";
+            public const string CheckSquare = "\uf14a";
+            public const string Cheese = "\uf7ef";
+            public const string Chess = "\uf439";
+            public const string ChessBishop = "\uf43a";
+            public const string ChessBoard = "\uf43c";
+            public const string ChessKing = "\uf43f";
+            public const string ChessKnight = "\uf441";
+            public const string ChessPawn = "\uf443";
+            public const string ChessQueen = "\uf445";
+            public const string ChessRook = "\uf447";
+            public const string ChevronCircleDown = "\uf13a";
+            public const string ChevronCircleLeft = "\uf137";
+            public const string ChevronCircleRight = "\uf138";
+            public const string ChevronCircleUp = "\uf139";
+            public const string ChevronDown = "\uf078";
+            public const string ChevronLeft = "\uf053";
+            public const string ChevronRight = "\uf054";
+            public const string ChevronUp = "\uf077";
+
         }
     }
 }
