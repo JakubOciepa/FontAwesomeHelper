@@ -1,6 +1,4 @@
-﻿using System.Runtime.Serialization.Formatters;
-
-namespace FontAwesomeHelper
+﻿namespace FontAwesomeHelper
 {
     public static partial class FontAwesomeIconCode
     {
