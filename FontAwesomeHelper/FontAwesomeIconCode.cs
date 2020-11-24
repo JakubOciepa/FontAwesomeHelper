@@ -215,6 +215,36 @@
             public const string Cogs = "\uf085";
             public const string Coins = "\uf51e";
             public const string Columns = "\uf0db";
+            public const string Comment = "\uf075";
+            public const string CommentAlt = "\uf27a";
+            public const string CommentDollar = "\uf651";
+            public const string CommentDots = "\uf4ad";
+            public const string CommentMedical = "\uf7f5";
+            public const string Comments = "\uf086";
+            public const string CommentsDollar = "\uf653";
+            public const string CompactDisc = "\uf51f";
+            public const string Compass = "\uf14e";
+            public const string Compress = "\uf066";
+            public const string CompressAlt = "\uf422";
+            public const string CompressArrowsAlt = "\uf78c";
+            public const string ConciergeBell = "\uf562";
+            public const string Cookie = "\uf563";
+            public const string CokkieBite = "\uf564";
+            public const string Copy = "\uf0c5";
+            public const string Copyright = "\uf1f9";
+            public const string Couch = "\uf4b8";
+            public const string CreditCard = "\uf09d";
+            public const string Crop = "\uf125";
+            public const string CropAlt = "\uf565";
+            public const string Cross = "\uf654";
+            public const string CrossHairs = "\uf05b";
+            public const string Crow = "\uf520";
+            public const string Crown = "\uf521";
+            public const string Crutch = "\uf7f7";
+            public const string Cube = "\uf1b2";
+            public const string Cubes = "\uf1b3";
+            public const string Cut = "\uf0c4";
+
 
         }
     }
