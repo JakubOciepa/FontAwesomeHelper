@@ -185,6 +185,36 @@
             public const string ChevronLeft = "\uf053";
             public const string ChevronRight = "\uf054";
             public const string ChevronUp = "\uf077";
+            public const string Child = "\uf1ae";
+            public const string Church = "\uf51d";
+            public const string Circle = "\uf111";
+            public const string CircleNotch = "\uf1ce";
+            public const string City = "\uf64f";
+            public const string ClinicMedical = "\uf7f2";
+            public const string Clipboard = "\uf328";
+            public const string ClipboardCheck = "\uf46c";
+            public const string ClipboardList = "\uf46d";
+            public const string Clock = "\uf017";
+            public const string Clone = "\uf24d";
+            public const string ClosedCaptioning = "\uf20a";
+            public const string Cloud = "\uf0c2";
+            public const string CouldDownloadAlt = "\uf381";
+            public const string CloudMeatball = "\uf73b";
+            public const string CloudMoon = "\uf6c3";
+            public const string CloudMoonRain = "\uf73c";
+            public const string CloudRain = "\uf73d";
+            public const string CloudShowersHeavy = "\uf740";
+            public const string CloudSun = "\uf6c4";
+            public const string CloundSunRain = "\uf743";
+            public const string CloudUploadAlt = "\uf382";
+            public const string Cocktail = "\uf561";
+            public const string Code = "\uf121";
+            public const string CodeBranch = "\uf126";
+            public const string Coffee = "\uf0f4";
+            public const string Cog = "\uf013";
+            public const string Cogs = "\uf085";
+            public const string Coins = "\uf51e";
+            public const string Columns = "\uf0db";
 
         }
     }
