@@ -244,8 +244,21 @@
             public const string Cube = "\uf1b2";
             public const string Cubes = "\uf1b3";
             public const string Cut = "\uf0c4";
-
-
+            public const string Database = "\uf1c0";
+            public const string Deaf = "\uf2a4";
+            public const string Democrat = "\uf2a4";
+            public const string Desktop = "\uf108";
+            public const string Dharmachakra = "\uf655";
+            public const string Diagnoses = "\uf470";
+            public const string Dice = "\uf522";
+            public const string DiceD6 = "\uf6d1";
+            public const string DiceD20 = "\uf6cf";
+            public const string DiceFive = "\uf523";
+            public const string DiceFour = "\uf524";
+            public const string DiceOne = "\uf525";
+            public const string DiceSix = "\uf526";
+            public const string DiceThree = "\uf527";
+            public const string DiceTwo = "\uf528";
         }
     }
 }
