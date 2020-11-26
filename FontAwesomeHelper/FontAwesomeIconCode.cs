@@ -259,6 +259,33 @@
             public const string DiceSix = "\uf526";
             public const string DiceThree = "\uf527";
             public const string DiceTwo = "\uf528";
+            public const string DigitalTachograph = "\uf566";
+            public const string Directions = "\uf5eb";
+            public const string Disease = "\uf7fa";
+            public const string Divide = "\uf529";
+            public const string Dizzy = "\uf567";
+            public const string Dna = "\uf471";
+            public const string Dog = "\uf6d3";
+            public const string DollarSign = "\uf155";
+            public const string Dolly = "\uf472";
+            public const string DollyFlatbed = "\uf474";
+            public const string Donate = "\uf4b9";
+            public const string DoorClosed = "\uf52a";
+            public const string DoorOpen = "\uf52b";
+            public const string DotCircle = "\uf192";
+            public const string Dove = "\uf4ba";
+            public const string Download = "\uf019";
+            public const string DraftingCompass = "\uf568";
+            public const string Dragon = "\uf6d5";
+            public const string DrawPolygon = "\uf5ee";
+            public const string Drum = "\uf569";
+            public const string DrumSteelpan = "\uf56a";
+            public const string DrumsticBite = "\uf6d7";
+            public const string Dumbbell = "\uf44b";
+            public const string Dumpster = "\uf793";
+            public const string DumpsterFire = "\uf794";
+            public const string Dungeon = "\uf6d9";
+
         }
     }
 }
