@@ -285,7 +285,11 @@
             public const string Dumpster = "\uf793";
             public const string DumpsterFire = "\uf794";
             public const string Dungeon = "\uf6d9";
-
+            public const string Edit = "\uf044";
+            public const string Egg = "\uf7fb";
+            public const string Eject = "\uf052";
+            public const string EllipsisH = "\uf141";
+            public const string EllipsisV = "\uf142";
         }
     }
 }
